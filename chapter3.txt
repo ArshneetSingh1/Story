@@ -1,0 +1,4 @@
+1st) git init
+2)touch and make 3 files.
+3)git add .
+4) git commit -m "3 chapters."
